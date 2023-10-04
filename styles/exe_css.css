@@ -1,0 +1,27 @@
+h1 {
+    color: red;
+}
+
+p {
+    font-size: 20px;
+}
+
+.DivTeste{
+    padding: 50px;
+    border: 1px solid black;
+}
+
+
+.pTeste {
+    color: grey;
+}
+
+.classeTeste{
+    padding: 50px;
+    border: 1px solid black;
+    color:blue;
+}
+
+#idTeste {
+    color:aqua;
+}
